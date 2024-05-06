@@ -1,11 +1,11 @@
 import Container from 'react-bootstrap/Container';
-import Example2 from './components/Example2' ;
+import Example3 from './components/Example3' ;
 
 import './App.css';
 
 const App = () => (
   <Container className="p-3">
-    <Example2 />
+    <Example3 />
   </Container>
 );
 
