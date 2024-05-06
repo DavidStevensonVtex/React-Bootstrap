@@ -1,9 +1,9 @@
 import './App.css';
-import AutoLayoutExample from "./components/AutoLayoutExample" ;
+import AutoLayoutSizingExample from "./components/AutoLayoutSizingExample" ;
 
 function App() {
   return (
-    <AutoLayoutExample />
+    <AutoLayoutSizingExample />
   );
 }
 
