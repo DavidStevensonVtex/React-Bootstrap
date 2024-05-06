@@ -1,11 +1,11 @@
 import Container from 'react-bootstrap/Container';
-import Example3 from './components/Example3' ;
+import VariantsExample from './components/VariantsExample' ;
 
 import './App.css';
 
 const App = () => (
   <Container className="p-3">
-    <Example3 />
+    <VariantsExample />
   </Container>
 );
 
