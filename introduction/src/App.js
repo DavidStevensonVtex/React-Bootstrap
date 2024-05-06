@@ -1,11 +1,11 @@
 import Container from 'react-bootstrap/Container';
-import VariantsExample from './components/VariantsExample' ;
+import ColorModesExample from './components/ColorModesExample' ;
 
 import './App.css';
 
 const App = () => (
   <Container className="p-3">
-    <VariantsExample />
+    <ColorModesExample />
   </Container>
 );
 
