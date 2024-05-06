@@ -1,9 +1,9 @@
 import './App.css';
-import ContainerFluidExample from "./components/ContainerFluidExample" ;
+import ContainerFluidBreakpointExample from "./components/ContainerFluidBreakpointExample" ;
 
 function App() {
   return (
-    <ContainerFluidExample />
+    <ContainerFluidBreakpointExample />
   );
 }
 
