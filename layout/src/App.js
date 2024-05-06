@@ -1,9 +1,9 @@
 import './App.css';
-import ContainerFluidBreakpointExample from "./components/ContainerFluidBreakpointExample" ;
+import AutoLayoutExample from "./components/AutoLayoutExample" ;
 
 function App() {
   return (
-    <ContainerFluidBreakpointExample />
+    <AutoLayoutExample />
   );
 }
 
