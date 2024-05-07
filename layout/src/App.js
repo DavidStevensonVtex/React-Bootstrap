@@ -1,9 +1,9 @@
 import './App.css';
-import HorizontalExample from "./components/HorizontalExample" ;
+import HorizontalMarginStartExample from "./components/HorizontalMarginStartExample" ;
 
 function App() {
   return (
-    <HorizontalExample />
+    <HorizontalMarginStartExample />
   );
 }
 
