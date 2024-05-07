@@ -1,9 +1,9 @@
 import './App.css';
-import HorizontalMarginStartExample from "./components/HorizontalMarginStartExample" ;
+import HorizontalVerticalRulesExample from "./components/HorizontalVerticalRulesExample" ;
 
 function App() {
   return (
-    <HorizontalMarginStartExample />
+    <HorizontalVerticalRulesExample />
   );
 }
 

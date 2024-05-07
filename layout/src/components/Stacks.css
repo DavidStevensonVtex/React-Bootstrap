@@ -1,6 +1,8 @@
 div.vstack > div {
-    background-color: #712cf926;
+    background-color: #5D3FD3 ;
     border: 1px solid #712cf94d;
+    font-weight: bold ;
+    color: white ;
 }
 
 div.hstack > div {
