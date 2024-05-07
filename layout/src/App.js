@@ -1,9 +1,9 @@
 import './App.css';
-import OffsettingExample from "./components/OffsettingExample" ;
+import RowColLayoutExample from "./components/RowColLayoutExample" ;
 
 function App() {
   return (
-    <OffsettingExample />
+    <RowColLayoutExample />
   );
 }
 
