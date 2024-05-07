@@ -1,9 +1,9 @@
 import './App.css';
-import ButtonsExample from "./components/ButtonsExample" ;
+import FormExample from "./components/FormExample" ;
 
 function App() {
   return (
-    <ButtonsExample />
+    <FormExample />
   );
 }
 
