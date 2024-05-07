@@ -1,9 +1,9 @@
 import './App.css';
-import HorizontalVerticalRulesExample from "./components/HorizontalVerticalRulesExample" ;
+import ButtonsExample from "./components/ButtonsExample" ;
 
 function App() {
   return (
-    <HorizontalVerticalRulesExample />
+    <ButtonsExample />
   );
 }
 
