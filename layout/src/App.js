@@ -1,9 +1,9 @@
 import './App.css';
-import ResponsiveExample from "./components/ResponsiveExample" ;
+import OrderingExample from "./components/OrderingExample" ;
 
 function App() {
   return (
-    <ResponsiveExample />
+    <OrderingExample />
   );
 }
 
