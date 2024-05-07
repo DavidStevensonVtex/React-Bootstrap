@@ -2,3 +2,9 @@ div.vstack > div {
     background-color: #712cf926;
     border: 1px solid #712cf94d;
 }
+
+div.hstack > div {
+    background-color: #712cf926;
+    border: 1px solid #712cf94d;
+    font-weight: bold ;
+}

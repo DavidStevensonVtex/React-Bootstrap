@@ -1,9 +1,9 @@
 import './App.css';
-import VerticalExample from "./components/VerticalExample" ;
+import HorizontalExample from "./components/HorizontalExample" ;
 
 function App() {
   return (
-    <VerticalExample />
+    <HorizontalExample />
   );
 }
 
