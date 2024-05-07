@@ -1,9 +1,9 @@
 import './App.css';
-import ResponsiveAutoExample from "./components/ResponsiveAutoExample" ;
+import ResponsiveExample from "./components/ResponsiveExample" ;
 
 function App() {
   return (
-    <ResponsiveAutoExample />
+    <ResponsiveExample />
   );
 }
 
