@@ -1,9 +1,9 @@
 import './App.css';
-import OrderingExample from "./components/OrderingExample" ;
+import OrderingFirstLastExample from "./components/OrderingFirstLastExample" ;
 
 function App() {
   return (
-    <OrderingExample />
+    <OrderingFirstLastExample />
   );
 }
 
