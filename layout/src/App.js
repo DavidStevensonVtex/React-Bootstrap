@@ -1,9 +1,9 @@
 import './App.css';
-import RowColLayoutExample from "./components/RowColLayoutExample" ;
+import RowColLayoutColWidthBreakpointExample from "./components/RowColLayoutColWidthBreakpointExample" ;
 
 function App() {
   return (
-    <RowColLayoutExample />
+    <RowColLayoutColWidthBreakpointExample />
   );
 }
 
