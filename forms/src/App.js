@@ -1,9 +1,9 @@
 import './App.css';
-import PlaintextExample from "./FormControls/PlaintextExample" ;
+import FormFileExample from "./FormControls/FormFileExample" ;
 
 function App() {
   return (
-    <PlaintextExample />
+    <FormFileExample />
   );
 }
 
