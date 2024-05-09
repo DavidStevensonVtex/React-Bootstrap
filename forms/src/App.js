@@ -1,9 +1,9 @@
 import './App.css';
-import FormFileExample from "./FormControls/FormFileExample" ;
+import ColorPickerExample from "./FormControls/ColorPickerExample" ;
 
 function App() {
   return (
-    <FormFileExample />
+    <ColorPickerExample />
   );
 }
 
