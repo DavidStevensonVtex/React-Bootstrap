@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
-import InputSizesExample from "./FormControls/InputSizesExample" ;
+import FormControlDisabledExample from "./FormControls/FormControlDisabledExample" ;
 
 function App() {
   return (
-    <InputSizesExample />
+    <FormControlDisabledExample />
   );
 }
 
