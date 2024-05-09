@@ -1,0 +1,13 @@
+body {
+    margin: 0.25in ;
+    background-color: #303030 ;
+    color: white ;
+}
+
+label {
+    font-weight: 300 ;
+} 
+
+.text-muted {
+    color: gray !important ;
+}
