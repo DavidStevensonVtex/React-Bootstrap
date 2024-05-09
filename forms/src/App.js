@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
-import InputReadOnlyExample from "./FormControls/InputReadOnlyExample" ;
+import PlaintextExample from "./FormControls/PlaintextExample" ;
 
 function App() {
   return (
-    <InputReadOnlyExample />
+    <PlaintextExample />
   );
 }
 
