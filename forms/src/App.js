@@ -1,9 +1,9 @@
 import './App.css';
-import CheckApiExample from "./ChecksAndRadios/CheckApiExample" ;
+import RangeExample from "./Range/RangeExample" ;
 
 function App() {
   return (
-    <CheckApiExample />
+    <RangeExample />
   );
 }
 
