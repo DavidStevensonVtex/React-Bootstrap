@@ -1,9 +1,9 @@
 import './App.css';
-import ButtonsExample from "./InputGroup/ButtonsExample" ;
+import ButtonDropdownsExample from "./InputGroup/ButtonDropdownsExample" ;
 
 function App() {
   return (
-    <ButtonsExample />
+    <ButtonDropdownsExample />
   );
 }
 
