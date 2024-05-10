@@ -1,9 +1,9 @@
 import './App.css';
-import SelectSizesExample from "./Select/SelectSizesExample" ;
+import CheckExample from "./ChecksAndRadios/CheckExample" ;
 
 function App() {
   return (
-    <SelectSizesExample />
+    <CheckExample />
   );
 }
 
