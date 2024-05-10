@@ -1,9 +1,9 @@
 import './App.css';
-import SwitchExample from "./ChecksAndRadios/SwitchExample" ;
+import CheckInlineExample from "./ChecksAndRadios/CheckInlineExample" ;
 
 function App() {
   return (
-    <SwitchExample />
+    <CheckInlineExample />
   );
 }
 
