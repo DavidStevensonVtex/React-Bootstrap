@@ -1,9 +1,9 @@
 import './App.css';
-import MultipleInputsExample from "./InputGroup/MultipleInputsExample" ;
+import MultipleAddonsExample from "./InputGroup/MultipleAddonsExample" ;
 
 function App() {
   return (
-    <MultipleInputsExample />
+    <MultipleAddonsExample />
   );
 }
 
