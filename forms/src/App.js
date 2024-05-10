@@ -1,9 +1,9 @@
 import './App.css';
-import MultipleAddonsExample from "./InputGroup/MultipleAddonsExample" ;
+import ButtonsExample from "./InputGroup/ButtonsExample" ;
 
 function App() {
   return (
-    <MultipleAddonsExample />
+    <ButtonsExample />
   );
 }
 
