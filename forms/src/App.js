@@ -1,9 +1,9 @@
 import './App.css';
-import CheckboxesExample from "./InputGroup/CheckboxesExample" ;
+import MultipleInputsExample from "./InputGroup/MultipleInputsExample" ;
 
 function App() {
   return (
-    <CheckboxesExample />
+    <MultipleInputsExample />
   );
 }
 
