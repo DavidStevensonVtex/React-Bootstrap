@@ -1,9 +1,9 @@
 import './App.css';
-import SelectBasicExample from "./Select/SelectBasicExample" ;
+import SelectSizesExample from "./Select/SelectSizesExample" ;
 
 function App() {
   return (
-    <SelectBasicExample />
+    <SelectSizesExample />
   );
 }
 
