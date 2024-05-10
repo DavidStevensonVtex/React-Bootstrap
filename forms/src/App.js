@@ -1,9 +1,9 @@
 import './App.css';
-import CheckReverseExample from "./ChecksAndRadios/CheckReverseExample" ;
+import NoLabelExample from "./ChecksAndRadios/NoLabelExample" ;
 
 function App() {
   return (
-    <CheckReverseExample />
+    <NoLabelExample />
   );
 }
 
