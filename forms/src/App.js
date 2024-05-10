@@ -1,9 +1,9 @@
 import './App.css';
-import FormTextExample from "./FormText/FormTextExample" ;
+import SelectBasicExample from "./Select/SelectBasicExample" ;
 
 function App() {
   return (
-    <FormTextExample />
+    <SelectBasicExample />
   );
 }
 
