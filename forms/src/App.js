@@ -1,9 +1,9 @@
 import './App.css';
-import BasicExample from "./InputGroup/BasicExample" ;
+import SizesExample from "./InputGroup/SizesExample" ;
 
 function App() {
   return (
-    <BasicExample />
+    <SizesExample />
   );
 }
 
