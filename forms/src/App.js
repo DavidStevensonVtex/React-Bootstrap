@@ -1,9 +1,9 @@
 import './App.css';
-import FormExample from "./Validation/FormExample" ;
+import ValidationInputGroupExample from "./Validation/ValidationInputGroupExample" ;
 
 function App() {
   return (
-    <FormExample />
+    <ValidationInputGroupExample />
   );
 }
 
