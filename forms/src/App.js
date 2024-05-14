@@ -1,9 +1,9 @@
 import './App.css';
-import FormGroupExample from "./Layout/FormGroupExample" ;
+import GridBasicExample from "./Layout/GridBasicExample" ;
 
 function App() {
   return (
-    <FormGroupExample />
+    <GridBasicExample />
   );
 }
 
