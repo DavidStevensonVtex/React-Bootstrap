@@ -1,9 +1,9 @@
 import './App.css';
-import FlushExample from "./accordions/FlushExample" ;
+import AlwaysOpenExample from "./accordions/AlwaysOpenExample" ;
 
 function App() {
   return (
-    <FlushExample />
+    <AlwaysOpenExample />
   );
 }
 
