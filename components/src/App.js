@@ -1,9 +1,9 @@
 import './App.css';
-import CustomAwareToggleExample from "./accordions/CustomAwareToggleExample" ;
+import BasicExample from "./alerts/BasicExample" ;
 
 function App() {
   return (
-    <CustomAwareToggleExample />
+    <BasicExample />
   );
 }
 
