@@ -35,3 +35,13 @@ input, select {
     color: white ;
     font-weight: 400 ;
 }
+
+.card {
+    background-color: slategray ;
+    color: white ;
+}
+
+.card-body {
+    background-color: black ;
+    color: white ;
+}

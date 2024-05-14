@@ -1,9 +1,9 @@
 import './App.css';
-import AlwaysOpenExample from "./accordions/AlwaysOpenExample" ;
+import CustomToggleExample from "./accordions/CustomToggleExample" ;
 
 function App() {
   return (
-    <AlwaysOpenExample />
+    <CustomToggleExample />
   );
 }
 
