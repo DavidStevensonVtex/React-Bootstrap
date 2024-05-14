@@ -1,9 +1,9 @@
 import './App.css';
-import SegmentedButtonDropdownsExample from "./InputGroup/SegmentedButtonDropdownsExample" ;
+import FormFloatingBasicExample from "./FloatingLabels/FormFloatingBasicExample" ;
 
 function App() {
   return (
-    <SegmentedButtonDropdownsExample />
+    <FormFloatingBasicExample />
   );
 }
 
