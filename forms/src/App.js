@@ -1,9 +1,9 @@
 import './App.css';
-import GridComplexExample from "./Layout/GridComplexExample" ;
+import HorizontalExample from "./Layout/HorizontalExample" ;
 
 function App() {
   return (
-    <GridComplexExample />
+    <HorizontalExample />
   );
 }
 
