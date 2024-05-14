@@ -1,9 +1,9 @@
 import './App.css';
-import AdditionalContentExample from "./alerts/AdditionalContentExample" ;
+import AlertDismissibleExample from "./alerts/AlertDismissibleExample" ;
 
 function App() {
   return (
-    <AdditionalContentExample />
+    <AlertDismissibleExample />
   );
 }
 
