@@ -1,9 +1,9 @@
 import './App.css';
-import FormLabelSizingExample from "./Layout/FormLabelSizingExample" ;
+import GridColSizesExample from "./Layout/GridColSizesExample" ;
 
 function App() {
   return (
-    <FormLabelSizingExample />
+    <GridColSizesExample />
   );
 }
 
