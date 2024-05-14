@@ -1,9 +1,9 @@
 import './App.css';
-import FormFloatingSelectExample from "./FloatingLabels/FormFloatingSelectExample" ;
+import FormFloatingLayoutExample from "./FloatingLabels/FormFloatingLayoutExample" ;
 
 function App() {
   return (
-    <FormFloatingSelectExample />
+    <FormFloatingLayoutExample />
   );
 }
 
