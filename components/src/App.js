@@ -1,9 +1,9 @@
 import './App.css';
-import CustomToggleExample from "./accordions/CustomToggleExample" ;
+import CustomAwareToggleExample from "./accordions/CustomAwareToggleExample" ;
 
 function App() {
   return (
-    <CustomToggleExample />
+    <CustomAwareToggleExample />
   );
 }
 
