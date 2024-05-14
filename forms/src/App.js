@@ -1,9 +1,9 @@
 import './App.css';
-import GridColSizesExample from "./Layout/GridColSizesExample" ;
+import GridAutoSizingExample from "./Layout/GridAutoSizingExample" ;
 
 function App() {
   return (
-    <GridColSizesExample />
+    <GridAutoSizingExample />
   );
 }
 
