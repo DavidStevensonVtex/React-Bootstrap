@@ -1,9 +1,9 @@
 import './App.css';
-import VariationsExample from "./badges/VariationsExample" ;
+import PillExample from "./badges/PillExample" ;
 
 function App() {
   return (
-    <VariationsExample />
+    <PillExample />
   );
 }
 
