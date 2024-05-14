@@ -1,9 +1,9 @@
 import './App.css';
-import FormFloatingCustom from "./FloatingLabels/FormFloatingCustom" ;
+import FormGroupExample from "./Layout/FormGroupExample" ;
 
 function App() {
   return (
-    <FormFloatingCustom />
+    <FormGroupExample />
   );
 }
 
