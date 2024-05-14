@@ -1,9 +1,9 @@
 import './App.css';
-import HorizontalExample from "./Layout/HorizontalExample" ;
+import FormLabelSizingExample from "./Layout/FormLabelSizingExample" ;
 
 function App() {
   return (
-    <HorizontalExample />
+    <FormLabelSizingExample />
   );
 }
 
