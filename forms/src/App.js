@@ -1,9 +1,9 @@
 import './App.css';
-import FormFloatingLayoutExample from "./FloatingLabels/FormFloatingLayoutExample" ;
+import FormFloatingCustom from "./FloatingLabels/FormFloatingCustom" ;
 
 function App() {
   return (
-    <FormFloatingLayoutExample />
+    <FormFloatingCustom />
   );
 }
 
