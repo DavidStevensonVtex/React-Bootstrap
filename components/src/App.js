@@ -1,9 +1,9 @@
 import './App.css';
-import AllCollapseExample from "./accordions/AllCollapseExample" ;
+import FlushExample from "./accordions/FlushExample" ;
 
 function App() {
   return (
-    <AllCollapseExample />
+    <FlushExample />
   );
 }
 
