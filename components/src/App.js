@@ -1,9 +1,9 @@
 import './App.css';
-import LinksExample from "./alerts/LinksExample" ;
+import AdditionalContentExample from "./alerts/AdditionalContentExample" ;
 
 function App() {
   return (
-    <LinksExample />
+    <AdditionalContentExample />
   );
 }
 
