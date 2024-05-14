@@ -1,9 +1,9 @@
 import './App.css';
-import BasicExample from "./badges/BasicExample" ;
+import ButtonExample from "./badges/ButtonExample" ;
 
 function App() {
   return (
-    <BasicExample />
+    <ButtonExample />
   );
 }
 
