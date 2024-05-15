@@ -1,9 +1,9 @@
 import './App.css';
-import ListGroupWithHeaderExample from "./cards/ListGroupWithHeaderExample" ;
+import KitchenSinkExample from "./cards/KitchenSinkExample" ;
 
 function App() {
   return (
-    <ListGroupWithHeaderExample />
+    <KitchenSinkExample />
   );
 }
 
