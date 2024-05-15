@@ -1,9 +1,9 @@
 import './App.css';
-import TextExample from "./cards/TextExample" ;
+import ListGroupExample from "./cards/ListGroupExample" ;
 
 function App() {
   return (
-    <TextExample />
+    <ListGroupExample />
   );
 }
 
