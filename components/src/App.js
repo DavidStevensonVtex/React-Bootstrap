@@ -1,9 +1,9 @@
 import './App.css';
-import TypesExample from "./Buttons/TypesExample" ;
+import SizesExample from "./Buttons/SizesExample" ;
 
 function App() {
   return (
-    <TypesExample />
+    <SizesExample />
   );
 }
 
