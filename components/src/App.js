@@ -1,9 +1,9 @@
 import './App.css';
-import WithHeaderStyledExample from "./cards/WithHeaderStyledExample" ;
+import WithHeaderAndQuoteExample from "./cards/WithHeaderAndQuoteExample" ;
 
 function App() {
   return (
-    <WithHeaderStyledExample />
+    <WithHeaderAndQuoteExample />
   );
 }
 
