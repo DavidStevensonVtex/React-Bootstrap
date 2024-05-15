@@ -1,9 +1,9 @@
 import './App.css';
-import BodyShorthandExample from "./cards/BodyShorthandExample" ;
+import TextExample from "./cards/TextExample" ;
 
 function App() {
   return (
-    <BodyShorthandExample />
+    <TextExample />
   );
 }
 
