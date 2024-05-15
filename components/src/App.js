@@ -1,9 +1,9 @@
 import './App.css';
-import VerticalExample from "./ButtonGroup/VerticalExample" ;
+import TypesExample from "./Buttons/TypesExample" ;
 
 function App() {
   return (
-    <VerticalExample />
+    <TypesExample />
   );
 }
 
