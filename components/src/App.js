@@ -1,9 +1,9 @@
 import './App.css';
-import BasicExample from "./cards/BasicExample" ;
+import BodyOnlyExample from "./cards/BodyOnlyExample" ;
 
 function App() {
   return (
-    <BasicExample />
+    <BodyOnlyExample />
   );
 }
 
