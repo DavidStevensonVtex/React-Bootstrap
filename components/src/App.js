@@ -1,9 +1,9 @@
 import './App.css';
-import KitchenSinkExample from "./cards/KitchenSinkExample" ;
+import WithHeaderExample from "./cards/WithHeaderExample" ;
 
 function App() {
   return (
-    <KitchenSinkExample />
+    <WithHeaderExample />
   );
 }
 
