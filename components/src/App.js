@@ -1,9 +1,9 @@
 import './App.css';
-import LoadingButton from "./Buttons/LoadingButton" ;
+import ToggleButtonExample from "./Buttons/ToggleButtonExample" ;
 
 function App() {
   return (
-    <LoadingButton />
+    <ToggleButtonExample />
   );
 }
 
