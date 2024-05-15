@@ -1,9 +1,9 @@
 import './App.css';
-import ImageAndTextExample from "./cards/ImageAndTextExample" ;
+import ImgOverlayExample from "./cards/ImgOverlayExample" ;
 
 function App() {
   return (
-    <ImageAndTextExample />
+    <ImgOverlayExample />
   );
 }
 
