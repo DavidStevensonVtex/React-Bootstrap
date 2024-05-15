@@ -45,3 +45,8 @@ input, select {
     background-color: black ;
     color: white ;
 }
+
+.dropdown-menu, .dropdown-item {
+    background-color: black ;
+    color: white ; 
+}
