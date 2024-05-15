@@ -1,9 +1,9 @@
 import './App.css';
-import ToolbarExample from "./ButtonGroup/ToolbarExample" ;
+import SizesExample from "./ButtonGroup/SizesExample" ;
 
 function App() {
   return (
-    <ToolbarExample />
+    <SizesExample />
   );
 }
 
