@@ -1,9 +1,9 @@
 import './App.css';
-import SizesExample from "./ButtonGroup/SizesExample" ;
+import NestedExample from "./ButtonGroup/NestedExample" ;
 
 function App() {
   return (
-    <SizesExample />
+    <NestedExample />
   );
 }
 
