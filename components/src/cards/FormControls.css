@@ -60,3 +60,7 @@ input, select {
     background-color: black ;
     color: white ; 
 }
+
+a.disabled {
+    color: lightgray !important ;
+}

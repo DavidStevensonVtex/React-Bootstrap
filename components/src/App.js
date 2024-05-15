@@ -1,9 +1,9 @@
 import './App.css';
-import ImgOverlayExample from "./cards/ImgOverlayExample" ;
+import NavTabsExample from "./cards/NavTabsExample" ;
 
 function App() {
   return (
-    <ImgOverlayExample />
+    <NavTabsExample />
   );
 }
 
