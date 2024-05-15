@@ -1,9 +1,9 @@
 import './App.css';
-import ToggleButtonExample from "./Buttons/ToggleButtonExample" ;
+import ToggleButtonGroupUncontrolled from "./Buttons/ToggleButtonGroupUncontrolled" ;
 
 function App() {
   return (
-    <ToggleButtonExample />
+    <ToggleButtonGroupUncontrolled />
   );
 }
 
