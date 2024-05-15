@@ -1,9 +1,9 @@
 import './App.css';
-import BreadcrumbExample from "./breadcrumbs/BreadcrumbExample" ;
+import ToolbarBasicExample from "./ButtonGroup/ToolbarBasicExample" ;
 
 function App() {
   return (
-    <BreadcrumbExample />
+    <ToolbarBasicExample />
   );
 }
 
