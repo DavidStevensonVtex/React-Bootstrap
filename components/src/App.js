@@ -1,9 +1,9 @@
 import './App.css';
-import BlockExample from "./Buttons/BlockExample" ;
+import ActiveExample from "./Buttons/ActiveExample" ;
 
 function App() {
   return (
-    <BlockExample />
+    <ActiveExample />
   );
 }
 
