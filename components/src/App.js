@@ -1,9 +1,9 @@
 import './App.css';
-import HeaderAndFooterExample from "./cards/HeaderAndFooterExample" ;
+import ImageAndTextExample from "./cards/ImageAndTextExample" ;
 
 function App() {
   return (
-    <HeaderAndFooterExample />
+    <ImageAndTextExample />
   );
 }
 
