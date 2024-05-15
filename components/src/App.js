@@ -1,9 +1,9 @@
 import './App.css';
-import ToolbarBasicExample from "./ButtonGroup/ToolbarBasicExample" ;
+import ToolbarExample from "./ButtonGroup/ToolbarExample" ;
 
 function App() {
   return (
-    <ToolbarBasicExample />
+    <ToolbarExample />
   );
 }
 
