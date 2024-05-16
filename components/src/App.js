@@ -1,9 +1,9 @@
 import './App.css';
-import NavbarDarkExample from "./Dropdowns/NavbarDarkExample" ;
+import DropDirectionExample from "./Dropdowns/DropDirectionExample" ;
 
 function App() {
   return (
-    <NavbarDarkExample />
+    <DropDirectionExample />
   );
 }
 
