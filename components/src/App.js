@@ -1,9 +1,9 @@
 import './App.css';
-import GridExample from "./cards/GridExample" ;
+import UncontrolledExample from "./carousels/UncontrolledExample" ;
 
 function App() {
   return (
-    <GridExample />
+    <UncontrolledExample />
   );
 }
 
