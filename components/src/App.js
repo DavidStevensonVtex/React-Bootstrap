@@ -1,9 +1,9 @@
 import './App.css';
-import NavPillsExample from "./cards/NavPillsExample" ;
+import BgColorExample from "./cards/BgColorExample" ;
 
 function App() {
   return (
-    <NavPillsExample />
+    <BgColorExample />
   );
 }
 
