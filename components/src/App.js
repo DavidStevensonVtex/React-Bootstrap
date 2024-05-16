@@ -1,9 +1,9 @@
 import './App.css';
-import DropdownItemTagsExample from "./Dropdowns/DropdownItemTagsExample" ;
+import MenuAlignEndExample from "./Dropdowns/MenuAlignEndExample" ;
 
 function App() {
   return (
-    <DropdownItemTagsExample />
+    <MenuAlignEndExample />
   );
 }
 
