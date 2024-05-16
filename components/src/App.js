@@ -1,9 +1,9 @@
 import './App.css';
-import MenuHeadersExample from "./Dropdowns/MenuHeadersExample" ;
+import MenuDividersExample from "./Dropdowns/MenuDividersExample" ;
 
 function App() {
   return (
-    <MenuHeadersExample />
+    <MenuDividersExample />
   );
 }
 
