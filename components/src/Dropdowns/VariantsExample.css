@@ -12,3 +12,7 @@ body {
 hr {
     border-color: lightgray !important ;
 }
+
+.dropdown-item-text {
+    color: white ;
+}

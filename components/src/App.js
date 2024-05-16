@@ -1,9 +1,9 @@
 import './App.css';
-import DropDirectionExample from "./Dropdowns/DropDirectionExample" ;
+import DropdownItemTagsExample from "./Dropdowns/DropdownItemTagsExample" ;
 
 function App() {
   return (
-    <DropDirectionExample />
+    <DropdownItemTagsExample />
   );
 }
 
