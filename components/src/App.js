@@ -1,9 +1,9 @@
 import './App.css';
-import CarouselFadeExample from "./carousels/CarouselFadeExample" ;
+import NoTransitionExample from "./carousels/NoTransitionExample" ;
 
 function App() {
   return (
-    <CarouselFadeExample />
+    <NoTransitionExample />
   );
 }
 
