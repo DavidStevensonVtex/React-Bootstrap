@@ -1,9 +1,9 @@
 import './App.css';
-import BasicExample from "./CloseButton/BasicExample" ;
+import DisabledExample from "./CloseButton/DisabledExample" ;
 
 function App() {
   return (
-    <BasicExample />
+    <DisabledExample />
   );
 }
 
