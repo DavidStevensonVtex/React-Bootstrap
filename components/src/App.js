@@ -1,9 +1,9 @@
 import './App.css';
-import GroupExample from "./cards/GroupExample" ;
+import GridExample from "./cards/GridExample" ;
 
 function App() {
   return (
-    <GroupExample />
+    <GridExample />
   );
 }
 
