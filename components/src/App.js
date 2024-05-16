@@ -1,9 +1,9 @@
 import './App.css';
-import MenuAlignEndExample from "./Dropdowns/MenuAlignEndExample" ;
+import MenuAlignResponsiveExample from "./Dropdowns/MenuAlignResponsiveExample" ;
 
 function App() {
   return (
-    <MenuAlignEndExample />
+    <MenuAlignResponsiveExample />
   );
 }
 
