@@ -64,3 +64,7 @@ input, select {
 a.disabled {
     color: lightgray !important ;
 }
+
+.nav-link:not(active):not(disabled) {
+    color: darkblue ;
+}

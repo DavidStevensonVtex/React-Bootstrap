@@ -1,9 +1,9 @@
 import './App.css';
-import NavTabsExample from "./cards/NavTabsExample" ;
+import NavPillsExample from "./cards/NavPillsExample" ;
 
 function App() {
   return (
-    <NavTabsExample />
+    <NavPillsExample />
   );
 }
 
