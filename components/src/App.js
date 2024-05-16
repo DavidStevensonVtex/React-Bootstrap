@@ -1,9 +1,9 @@
 import './App.css';
-import MenuAlignResponsiveExample from "./Dropdowns/MenuAlignResponsiveExample" ;
+import MenuHeadersExample from "./Dropdowns/MenuHeadersExample" ;
 
 function App() {
   return (
-    <MenuAlignResponsiveExample />
+    <MenuHeadersExample />
   );
 }
 
