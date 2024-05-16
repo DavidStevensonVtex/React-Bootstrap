@@ -1,9 +1,9 @@
 import './App.css';
-import SplitBasicExample from "./Dropdowns/SplitBasicExample" ;
+import SplitVariantExample from "./Dropdowns/SplitVariantExample" ;
 
 function App() {
   return (
-    <SplitBasicExample />
+    <SplitVariantExample />
   );
 }
 
