@@ -1,9 +1,9 @@
 import './App.css';
-import UncontrolledExample from "./carousels/UncontrolledExample" ;
+import ControlledCarousel from "./carousels/ControlledCarousel" ;
 
 function App() {
   return (
-    <UncontrolledExample />
+    <ControlledCarousel />
   );
 }
 
