@@ -1,9 +1,9 @@
 import './App.css';
-import VariantsExample from "./CloseButton/VariantsExample" ;
+import LabelledExample from "./CloseButton/LabelledExample" ;
 
 function App() {
   return (
-    <VariantsExample />
+    <LabelledExample />
   );
 }
 
