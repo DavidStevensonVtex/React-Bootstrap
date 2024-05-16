@@ -1,9 +1,9 @@
 import './App.css';
-import ControlledCarousel from "./carousels/ControlledCarousel" ;
+import CarouselFadeExample from "./carousels/CarouselFadeExample" ;
 
 function App() {
   return (
-    <ControlledCarousel />
+    <CarouselFadeExample />
   );
 }
 
