@@ -1,0 +1,14 @@
+body {
+    margin: 0.25in ;
+    background-color: #282A34; 
+    color: white ;
+}
+
+.dropdown-menu, .dropdown-item {
+    background-color: black ;
+    color: white ; 
+}
+
+hr {
+    border-color: lightgray !important ;
+}
