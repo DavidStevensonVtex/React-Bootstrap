@@ -1,9 +1,9 @@
 import './App.css';
-import BgColorExample from "./cards/BgColorExample" ;
+import BorderExample from "./cards/BorderExample" ;
 
 function App() {
   return (
-    <BgColorExample />
+    <BorderExample />
   );
 }
 
