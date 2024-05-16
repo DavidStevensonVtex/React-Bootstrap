@@ -1,9 +1,9 @@
 import './App.css';
-import IndividualIntervalsExample from "./carousels/IndividualIntervalsExample" ;
+import BasicExample from "./CloseButton/BasicExample" ;
 
 function App() {
   return (
-    <IndividualIntervalsExample />
+    <BasicExample />
   );
 }
 
