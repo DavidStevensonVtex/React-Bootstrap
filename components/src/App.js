@@ -1,9 +1,9 @@
 import './App.css';
-import BorderExample from "./cards/BorderExample" ;
+import GroupExample from "./cards/GroupExample" ;
 
 function App() {
   return (
-    <BorderExample />
+    <GroupExample />
   );
 }
 
