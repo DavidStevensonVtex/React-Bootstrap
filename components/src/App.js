@@ -1,9 +1,9 @@
 import './App.css';
-import MenuDividersExample from "./Dropdowns/MenuDividersExample" ;
+import AutoCloseExample from "./Dropdowns/AutoCloseExample" ;
 
 function App() {
   return (
-    <MenuDividersExample />
+    <AutoCloseExample />
   );
 }
 
