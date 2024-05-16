@@ -1,9 +1,9 @@
 import './App.css';
-import ButtonSizesExample from "./Dropdowns/ButtonSizesExample" ;
+import ButtonDarkExample from "./Dropdowns/ButtonDarkExample" ;
 
 function App() {
   return (
-    <ButtonSizesExample />
+    <ButtonDarkExample />
   );
 }
 
