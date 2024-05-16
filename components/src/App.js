@@ -1,9 +1,9 @@
 import './App.css';
-import NoTransitionExample from "./carousels/NoTransitionExample" ;
+import IndividualIntervalsExample from "./carousels/IndividualIntervalsExample" ;
 
 function App() {
   return (
-    <NoTransitionExample />
+    <IndividualIntervalsExample />
   );
 }
 
