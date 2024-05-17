@@ -1,21 +1,19 @@
 import './App.css';
+import { useState } from 'react' ;
 import React from 'react';
-import MyVerticallyCenteredModal from "./Modals/MyVerticallyCenteredModal" ;
+import MyModalWithGrid from "./Modals/MyModalWithGrid" ;
 import Button from 'react-bootstrap/Button';
 
 function App() {
-  const [modalShow, setModalShow] = React.useState(false);
+  const [modalShow, setModalShow] = useState(false);
 
   return (
     <>
       <Button variant="primary" onClick={() => setModalShow(true)}>
-        Launch vertically centered modal
+        Launch modal with grid
       </Button>
 
-      <MyVerticallyCenteredModal
-        show={modalShow}
-        onHide={() => setModalShow(false)}
-      />
+      <MyModalWithGrid show={modalShow} onHide={() => setModalShow(false)} />
     </>
   );
 }
