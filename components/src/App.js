@@ -1,9 +1,9 @@
 import './App.css';
-import LinkedExample from "./ListGroups/LinkedExample" ;
+import FlushExample from "./ListGroups/FlushExample" ;
 
 function App() {
   return (
-    <LinkedExample />
+    <FlushExample />
   );
 }
 
