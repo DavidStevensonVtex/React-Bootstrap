@@ -1,9 +1,9 @@
 import './App.css';
-import FigureExample from "./Figures/FigureExample" ;
+import ShapeExample from "./Images/ShapeExample" ;
 
 function App() {
   return (
-    <FigureExample />
+    <ShapeExample />
   );
 }
 
