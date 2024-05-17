@@ -1,9 +1,9 @@
 import './App.css';
-import StaticBackdropExample from "./Modals/StaticBackdropExample" ;
+import WithoutAnimationExample from "./Modals/WithoutAnimationExample" ;
 
 function App() {
   return (
-    <StaticBackdropExample />
+    <WithoutAnimationExample />
   );
 }
 
