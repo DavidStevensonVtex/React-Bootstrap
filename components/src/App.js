@@ -1,8 +1,8 @@
 import './App.css';
-import AutoFocusExample from "./Modals/AutoFocusExample" ;
+import SizesExample from "./Modals/SizesExample" ;
 
 function App() {
-  return <AutoFocusExample />
+  return <SizesExample />
 }
 
 export default App;
