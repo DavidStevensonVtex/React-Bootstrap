@@ -1,9 +1,9 @@
 import './App.css';
-import HorizontalExample from "./ListGroups/HorizontalExample" ;
+import HorizontalResponsiveExample from "./ListGroups/HorizontalResponsiveExample" ;
 
 function App() {
   return (
-    <HorizontalExample />
+    <HorizontalResponsiveExample />
   );
 }
 
