@@ -1,9 +1,9 @@
 import './App.css';
-import ButtonCustomExample from "./Dropdowns/ButtonCustomExample" ;
+import FigureExample from "./Figures/FigureExample" ;
 
 function App() {
   return (
-    <ButtonCustomExample />
+    <FigureExample />
   );
 }
 
