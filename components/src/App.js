@@ -1,9 +1,9 @@
 import './App.css';
-import DefaultExample from "./ListGroups/DefaultExample" ;
+import ActiveExample from "./ListGroups/ActiveExample" ;
 
 function App() {
   return (
-    <DefaultExample />
+    <ActiveExample />
   );
 }
 
