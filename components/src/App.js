@@ -1,9 +1,9 @@
 import './App.css';
-import StyleActionsExample from "./ListGroups/StyleActionsExample" ;
+import TabsExample from "./ListGroups/TabsExample" ;
 
 function App() {
   return (
-    <StyleActionsExample />
+    <TabsExample />
   );
 }
 
