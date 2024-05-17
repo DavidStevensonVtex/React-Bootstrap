@@ -1,0 +1,10 @@
+body {
+    margin: 0.25in ;
+    background-color: #282A34; 
+    color: white ;
+}
+
+.modal-content {
+    background-color: black ;
+    color: white ;
+}

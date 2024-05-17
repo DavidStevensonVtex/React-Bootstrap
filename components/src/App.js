@@ -1,9 +1,9 @@
 import './App.css';
-import TabsExample from "./ListGroups/TabsExample" ;
+import StaticExample from "./Modals/StaticExample" ;
 
 function App() {
   return (
-    <TabsExample />
+    <StaticExample />
   );
 }
 
