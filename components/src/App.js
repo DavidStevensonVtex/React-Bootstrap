@@ -1,9 +1,9 @@
 import './App.css';
-import FluidExample from "./Images/FluidExample" ;
+import DefaultExample from "./ListGroups/DefaultExample" ;
 
 function App() {
   return (
-    <FluidExample />
+    <DefaultExample />
   );
 }
 
