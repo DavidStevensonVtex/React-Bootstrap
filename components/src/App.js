@@ -1,9 +1,9 @@
 import './App.css';
-import DisabledExample from "./ListGroups/DisabledExample" ;
+import LinkedExample from "./ListGroups/LinkedExample" ;
 
 function App() {
   return (
-    <DisabledExample />
+    <LinkedExample />
   );
 }
 
