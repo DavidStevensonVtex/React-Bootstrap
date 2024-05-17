@@ -1,9 +1,9 @@
 import './App.css';
-import CustomNumberedExample from "./ListGroups/CustomNumberedExample" ;
+import HorizontalExample from "./ListGroups/HorizontalExample" ;
 
 function App() {
   return (
-    <CustomNumberedExample />
+    <HorizontalExample />
   );
 }
 
