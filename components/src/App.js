@@ -1,9 +1,9 @@
 import './App.css';
-import ActiveExample from "./ListGroups/ActiveExample" ;
+import DisabledExample from "./ListGroups/DisabledExample" ;
 
 function App() {
   return (
-    <ActiveExample />
+    <DisabledExample />
   );
 }
 
