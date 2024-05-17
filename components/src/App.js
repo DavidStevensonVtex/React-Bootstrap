@@ -1,8 +1,8 @@
 import './App.css';
-import FullScreenModal from "./Modals/FullScreenModal" ;
+import SizingModalsExample from "./Modals/SizingModalsExample" ;
 
 function App() {
-  return <FullScreenModal />
+  return <SizingModalsExample />
 }
 
 export default App;
