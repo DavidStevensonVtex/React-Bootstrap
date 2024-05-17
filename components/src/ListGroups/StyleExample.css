@@ -1,0 +1,20 @@
+body {
+    margin: 0.25in ;
+    background-color: #282A34; 
+    color: white ;
+}
+
+.list-group-item-dark {
+    background-color: black ;
+    color: white ;
+}
+
+.list-group-item-light {
+    background-color: gray ;
+    color: white ;
+}
+
+.list-group-item-info {
+    background-color: lightblue ; ;
+    color: white ;
+}
