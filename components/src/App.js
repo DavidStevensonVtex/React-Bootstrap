@@ -1,9 +1,9 @@
 import './App.css';
-import StaticExample from "./Modals/StaticExample" ;
+import LiveDemoExample from "./Modals/LiveDemoExample" ;
 
 function App() {
   return (
-    <StaticExample />
+    <LiveDemoExample />
   );
 }
 
