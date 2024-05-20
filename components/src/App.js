@@ -1,8 +1,8 @@
 import './App.css';
-import FormExample from "./Navbars/FormExample" ;
+import TextLinkExample from "./Navbars/TextLinkExample" ;
 
 function App() {
-  return <FormExample />
+  return <TextLinkExample />
 }
 
 export default App;
