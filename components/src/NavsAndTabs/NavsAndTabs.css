@@ -1,0 +1,9 @@
+body {
+    margin: 0.25in ;
+    background-color: #282A34; 
+    color: white ;
+}
+
+.nav-link.disabled {
+    color: lightgray ;
+}

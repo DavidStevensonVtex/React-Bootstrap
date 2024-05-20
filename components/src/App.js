@@ -1,8 +1,8 @@
 import './App.css';
-import OffcanvasExample from "./Navbars/OffcanvasExample" ;
+import BasicExample from "./NavsAndTabs/BasicExample" ;
 
 function App() {
-  return <OffcanvasExample />
+  return <BasicExample />
 }
 
 export default App;
