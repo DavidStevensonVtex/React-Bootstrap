@@ -1,8 +1,8 @@
 import './App.css';
-import BrandExample from "./Navbars/BrandExample" ;
+import FormExample from "./Navbars/FormExample" ;
 
 function App() {
-  return <BrandExample />
+  return <FormExample />
 }
 
 export default App;
