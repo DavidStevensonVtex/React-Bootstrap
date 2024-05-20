@@ -1,8 +1,8 @@
 import './App.css';
-import UnderlineExample from "./NavsAndTabs/UnderlineExample" ;
+import FillExample from "./NavsAndTabs/FillExample" ;
 
 function App() {
-  return <UnderlineExample />
+  return <FillExample />
 }
 
 export default App;
