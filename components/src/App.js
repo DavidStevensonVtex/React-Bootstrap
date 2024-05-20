@@ -1,8 +1,9 @@
 import './App.css';
-import ColorSchemesExample from "./Navbars/ColorSchemesExample" ;
+import ContainerOutsideExample from "./Navbars/ContainerOutsideExample" ;
+
 
 function App() {
-  return <ColorSchemesExample />
+  return <ContainerOutsideExample />
 }
 
 export default App;
