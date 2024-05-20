@@ -1,8 +1,8 @@
 import './App.css';
-import AlignmentExample from "./NavsAndTabs/AlignmentExample" ;
+import StackedExample from "./NavsAndTabs/StackedExample" ;
 
 function App() {
-  return <AlignmentExample />
+  return <StackedExample />
 }
 
 export default App;
