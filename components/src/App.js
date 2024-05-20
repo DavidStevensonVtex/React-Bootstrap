@@ -1,8 +1,8 @@
 import './App.css';
-import NavScrollExample from "./Navbars/NavScrollExample" ;
+import CollapsibleExample from "./Navbars/CollapsibleExample" ;
 
 function App() {
-  return <NavScrollExample />
+  return <CollapsibleExample />
 }
 
 export default App;
