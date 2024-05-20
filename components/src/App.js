@@ -1,8 +1,8 @@
 import './App.css';
-import FillExample from "./NavsAndTabs/FillExample" ;
+import JustifiedExample from "./NavsAndTabs/JustifiedExample" ;
 
 function App() {
-  return <FillExample />
+  return <JustifiedExample />
 }
 
 export default App;
