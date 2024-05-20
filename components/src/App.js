@@ -1,8 +1,8 @@
 import './App.css';
-import JustifiedExample from "./NavsAndTabs/JustifiedExample" ;
+import NavDropdownExample from "./NavsAndTabs/NavDropdownExample" ;
 
 function App() {
-  return <JustifiedExample />
+  return <NavDropdownExample />
 }
 
 export default App;
