@@ -1,9 +1,8 @@
 import './App.css';
-import ContainerInsideExample from "./Navbars/ContainerInsideExample" ;
-
+import NavScrollExample from "./Navbars/NavScrollExample" ;
 
 function App() {
-  return <ContainerInsideExample />
+  return <NavScrollExample />
 }
 
 export default App;
