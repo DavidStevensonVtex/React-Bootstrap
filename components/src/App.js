@@ -1,8 +1,8 @@
 import './App.css';
-import PillsExample from "./NavsAndTabs/PillsExample" ;
+import UnderlineExample from "./NavsAndTabs/UnderlineExample" ;
 
 function App() {
-  return <PillsExample />
+  return <UnderlineExample />
 }
 
 export default App;
