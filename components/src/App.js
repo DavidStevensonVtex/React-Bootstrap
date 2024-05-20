@@ -1,8 +1,8 @@
 import './App.css';
-import BasicExample from "./NavsAndTabs/BasicExample" ;
+import ListExample from "./NavsAndTabs/ListExample" ;
 
 function App() {
-  return <BasicExample />
+  return <ListExample />
 }
 
 export default App;
