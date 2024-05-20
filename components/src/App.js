@@ -1,8 +1,8 @@
 import './App.css';
-import TextLinkExample from "./Navbars/TextLinkExample" ;
+import ColorSchemesExample from "./Navbars/ColorSchemesExample" ;
 
 function App() {
-  return <TextLinkExample />
+  return <ColorSchemesExample />
 }
 
 export default App;
