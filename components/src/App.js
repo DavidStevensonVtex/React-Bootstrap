@@ -1,8 +1,8 @@
 import './App.css';
-import SizingModalsExample from "./Modals/SizingModalsExample" ;
+import BasicExample from "./Navbars/BasicExample" ;
 
 function App() {
-  return <SizingModalsExample />
+  return <BasicExample />
 }
 
 export default App;

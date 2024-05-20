@@ -1,0 +1,10 @@
+body {
+    margin: 0.25in ;
+    background-color: #282A34; 
+    color: white ;
+}
+
+.navbar, .navbar-brand, a.nav-link,  a.basic-nav-dropdown, .dropdown-menu, a.dropdown-item {
+    background-color: red !important ;
+    color: white !important ;
+}
