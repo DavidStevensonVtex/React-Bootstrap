@@ -1,8 +1,8 @@
 import './App.css';
-import CollapsibleExample from "./Navbars/CollapsibleExample" ;
+import OffcanvasExample from "./Navbars/OffcanvasExample" ;
 
 function App() {
-  return <CollapsibleExample />
+  return <OffcanvasExample />
 }
 
 export default App;
