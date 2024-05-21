@@ -1,8 +1,8 @@
 import './App.css';
-import TriggerRendererProp from "./Overlay/TriggerRendererProp" ;
+import TooltipInCopyExample from "./Overlay/TooltipInCopyExample" ;
 
 function App() {
-  return <TriggerRendererProp />
+  return <TooltipInCopyExample />
 }
 
 export default App;
