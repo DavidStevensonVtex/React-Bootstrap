@@ -1,8 +1,8 @@
 import './App.css';
-import TooltipPositionedExample from "./Overlay/TooltipPositionedExample" ;
+import PopoverExample from "./Overlay/PopoverExample" ;
 
 function App() {
-  return <TooltipPositionedExample />
+  return <PopoverExample />
 }
 
 export default App;
