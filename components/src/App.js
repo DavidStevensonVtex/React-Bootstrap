@@ -1,8 +1,8 @@
 import './App.css';
-import PopoverExample from "./Overlay/PopoverExample" ;
+import PopoverPositionedExample from "./Overlay/PopoverPositionedExample" ;
 
 function App() {
-  return <PopoverExample />
+  return <PopoverPositionedExample />
 }
 
 export default App;
