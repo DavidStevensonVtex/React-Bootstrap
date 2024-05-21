@@ -1,8 +1,8 @@
 import './App.css';
-import OverlayExample from "./Overlay/OverlayExample" ;
+import TriggerExample from "./Overlay/TriggerExample" ;
 
 function App() {
-  return <OverlayExample />
+  return <TriggerExample />
 }
 
 export default App;
