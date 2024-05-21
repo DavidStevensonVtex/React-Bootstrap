@@ -1,8 +1,8 @@
 import './App.css';
-import PlacementExample from "./Offcanvas/PlacementExample" ;
+import BackdropExample from "./Offcanvas/BackdropExample" ;
 
 function App() {
-  return <PlacementExample />
+  return <BackdropExample />
 }
 
 export default App;
