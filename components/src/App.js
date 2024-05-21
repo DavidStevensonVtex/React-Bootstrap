@@ -1,8 +1,8 @@
 import './App.css';
-import TooltipInCopyExample from "./Overlay/TooltipInCopyExample" ;
+import InjectedPropertiesExample from "./Overlay/InjectedPropertiesExample" ;
 
 function App() {
-  return <TooltipInCopyExample />
+  return <InjectedPropertiesExample />
 }
 
 export default App;
