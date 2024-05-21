@@ -1,8 +1,8 @@
 import './App.css';
-import BackdropExample from "./Offcanvas/BackdropExample" ;
+import StaticBackdrop from "./Offcanvas/StaticBackdrop" ;
 
 function App() {
-  return <BackdropExample />
+  return <StaticBackdrop />
 }
 
 export default App;
