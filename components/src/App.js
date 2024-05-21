@@ -1,8 +1,8 @@
 import './App.css';
-import TriggerExample from "./Overlay/TriggerExample" ;
+import TriggerRendererProp from "./Overlay/TriggerRendererProp" ;
 
 function App() {
-  return <TriggerExample />
+  return <TriggerRendererProp />
 }
 
 export default App;
