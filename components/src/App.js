@@ -1,8 +1,8 @@
 import './App.css';
-import OffcanvasBasicExample from "./Offcanvas/OffcanvasBasicExample" ;
+import ResponsiveExample from "./Offcanvas/ResponsiveExample" ;
 
 function App() {
-  return <OffcanvasBasicExample />
+  return <ResponsiveExample />
 }
 
 export default App;
