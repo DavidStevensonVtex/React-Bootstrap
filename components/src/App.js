@@ -1,8 +1,8 @@
 import './App.css';
-import PopoverPositionedExample from "./Overlay/PopoverPositionedExample" ;
+import DisabledExample from "./Overlay/DisabledExample" ;
 
 function App() {
-  return <PopoverPositionedExample />
+  return <DisabledExample />
 }
 
 export default App;
