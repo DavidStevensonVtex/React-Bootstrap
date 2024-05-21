@@ -1,0 +1,9 @@
+.offcanvas-header {
+    background-color: blue !important ;
+    color: white ;
+}
+
+.offcanvas-body {
+    background-color: lightyellow ;
+    font-weight: 500 ;
+}

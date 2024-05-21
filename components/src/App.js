@@ -1,8 +1,8 @@
 import './App.css';
-import NavDropdownExample from "./NavsAndTabs/NavDropdownExample" ;
+import OffcanvasBasicExample from "./Offcanvas/OffcanvasBasicExample" ;
 
 function App() {
-  return <NavDropdownExample />
+  return <OffcanvasBasicExample />
 }
 
 export default App;
