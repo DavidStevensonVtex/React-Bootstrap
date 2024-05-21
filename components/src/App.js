@@ -1,8 +1,8 @@
 import './App.css';
-import ResponsiveExample from "./Offcanvas/ResponsiveExample" ;
+import PlacementExample from "./Offcanvas/PlacementExample" ;
 
 function App() {
-  return <ResponsiveExample />
+  return <PlacementExample />
 }
 
 export default App;
