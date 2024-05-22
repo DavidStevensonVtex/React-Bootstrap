@@ -1,8 +1,8 @@
 import './App.css';
-import AnimationExample from "./Placeholders/AnimationExample" ;
+import ScreenreaderLabelExample from "./ProgressBars/ScreenreaderLabelExample" ;
 
 function App() {
-  return <AnimationExample />
+  return <ScreenreaderLabelExample />
 }
 
 export default App;
