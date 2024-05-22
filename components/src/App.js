@@ -1,8 +1,8 @@
 import './App.css';
-import AdvancedExample from "./Pagination/AdvancedExample" ;
+import CardExample from "./Placeholders/CardExample" ;
 
 function App() {
-  return <AdvancedExample />
+  return <CardExample />
 }
 
 export default App;
