@@ -1,8 +1,8 @@
 import './App.css';
-import ScreenreaderLabelExample from "./ProgressBars/ScreenreaderLabelExample" ;
+import ContextualExample from "./ProgressBars/ContextualExample" ;
 
 function App() {
-  return <ScreenreaderLabelExample />
+  return <ContextualExample />
 }
 
 export default App;
