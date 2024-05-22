@@ -1,8 +1,8 @@
 import './App.css';
-import AnimatedExample from "./ProgressBars/AnimatedExample" ;
+import StackedExample from "./ProgressBars/StackedExample" ;
 
 function App() {
-  return <AnimatedExample />
+  return <StackedExample />
 }
 
 export default App;
