@@ -1,8 +1,8 @@
 import './App.css';
-import StripedExample from "./ProgressBars/StripedExample" ;
+import AnimatedExample from "./ProgressBars/AnimatedExample" ;
 
 function App() {
-  return <StripedExample />
+  return <AnimatedExample />
 }
 
 export default App;
