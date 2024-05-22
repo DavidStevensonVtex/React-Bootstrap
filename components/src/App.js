@@ -1,8 +1,8 @@
 import './App.css';
-import CardExample from "./Placeholders/CardExample" ;
+import BasicExample from "./Placeholders/BasicExample" ;
 
 function App() {
-  return <CardExample />
+  return <BasicExample />
 }
 
 export default App;
