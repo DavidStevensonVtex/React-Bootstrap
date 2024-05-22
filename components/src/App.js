@@ -1,8 +1,8 @@
 import './App.css';
-import UpdatingPositionDynamically from "./Overlay/UpdatingPositionDynamically" ;
+import PaginationBasic from "./Pagination/PaginationBasic" ;
 
 function App() {
-  return <UpdatingPositionDynamically />
+  return <PaginationBasic />
 }
 
 export default App;
