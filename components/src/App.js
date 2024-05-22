@@ -1,8 +1,8 @@
 import './App.css';
-import PaginationBasic from "./Pagination/PaginationBasic" ;
+import AdvancedExample from "./Pagination/AdvancedExample" ;
 
 function App() {
-  return <PaginationBasic />
+  return <AdvancedExample />
 }
 
 export default App;
