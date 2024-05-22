@@ -1,8 +1,8 @@
 import './App.css';
-import SizeExample from "./Placeholders/SizeExample" ;
+import AnimationExample from "./Placeholders/AnimationExample" ;
 
 function App() {
-  return <SizeExample />
+  return <AnimationExample />
 }
 
 export default App;
