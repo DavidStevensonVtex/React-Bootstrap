@@ -1,8 +1,8 @@
 import './App.css';
-import ContextualExample from "./ProgressBars/ContextualExample" ;
+import StripedExample from "./ProgressBars/StripedExample" ;
 
 function App() {
-  return <ContextualExample />
+  return <StripedExample />
 }
 
 export default App;
