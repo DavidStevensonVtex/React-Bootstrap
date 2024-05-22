@@ -1,8 +1,8 @@
 import './App.css';
-import BasicExample from "./Placeholders/BasicExample" ;
+import WidthExample from "./Placeholders/WidthExample" ;
 
 function App() {
-  return <BasicExample />
+  return <WidthExample />
 }
 
 export default App;
