@@ -4,7 +4,8 @@ function BasicExample() {
   return (
     <Toast>
       <Toast.Header>
-        <img src="https://ralfvanveen.com/wp-content/uploads/2021/06/Placeholder-_-Glossary-800x450.webp" className="rounded me-2" alt="" />
+        <img style={{ width: 50, height: 50 }}
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" className="rounded me-2" alt="" />
         <strong className="me-auto">Bootstrap</strong>
         <small>11 mins ago</small>
       </Toast.Header>
