@@ -1,8 +1,8 @@
 import './App.css';
-import UncontrolledExample from "./Tabs/UncontrolledExample" ;
+import ControlledTabsExample from "./Tabs/ControlledTabsExample" ;
 
 function App() {
-  return <UncontrolledExample />
+  return <ControlledTabsExample />
 }
 
 export default App;
