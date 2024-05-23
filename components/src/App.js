@@ -1,8 +1,8 @@
 import './App.css';
-import StackingExample from "./Toasts/StackingExample" ;
+import PlacementExample from "./Toasts/PlacementExample" ;
 
 function App() {
-  return <StackingExample />
+  return <PlacementExample />
 }
 
 export default App;
