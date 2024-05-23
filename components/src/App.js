@@ -1,8 +1,8 @@
 import './App.css';
-import CollapseExample from "./Transitions/CollapseExample" ;
+import HorizontalExample from "./Transitions/HorizontalExample" ;
 
 function App() {
-  return <CollapseExample />
+  return <HorizontalExample />
 }
 
 export default App;
