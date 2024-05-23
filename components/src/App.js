@@ -1,8 +1,8 @@
 import './App.css';
-import PlacementMultiExample from "./Toasts/PlacementMultiExample" ;
+import AutohideExample from "./Toasts/AutohideExample" ;
 
 function App() {
-  return <PlacementMultiExample />
+  return <AutohideExample />
 }
 
 export default App;
