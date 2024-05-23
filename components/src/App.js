@@ -1,8 +1,8 @@
 import './App.css';
-import StripedRowExample from "./Tables/StripedRowExample" ;
+import StripedColumnsExample from "./Tables/StripedColumnsExample" ;
 
 function App() {
-  return <StripedRowExample />
+  return <StripedColumnsExample />
 }
 
 export default App;
