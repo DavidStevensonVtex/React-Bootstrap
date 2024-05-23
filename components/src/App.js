@@ -1,8 +1,8 @@
 import './App.css';
-import ContextualExample from "./Toasts/ContextualExample" ;
+import CollapseExample from "./Transitions/CollapseExample" ;
 
 function App() {
-  return <ContextualExample />
+  return <CollapseExample />
 }
 
 export default App;
