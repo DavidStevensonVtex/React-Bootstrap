@@ -1,8 +1,8 @@
 import './App.css';
-import BasicExample from "./Ratios/BasicExample" ;
+import CustomExample from "./Ratios/CustomExample" ;
 
 function App() {
-  return <BasicExample />
+  return <CustomExample />
 }
 
 export default App;
