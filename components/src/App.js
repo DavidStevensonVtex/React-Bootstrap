@@ -1,8 +1,8 @@
 import './App.css';
-import FadeExample from "./Transitions/FadeExample" ;
+import BasicExample from "./Ratios/BasicExample" ;
 
 function App() {
-  return <FadeExample />
+  return <BasicExample />
 }
 
 export default App;
