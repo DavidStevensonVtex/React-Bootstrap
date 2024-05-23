@@ -1,8 +1,8 @@
 import './App.css';
-import LeftTabsExample from "./Tabs/LeftTabsExample" ;
+import BasicExample from "./Toasts/BasicExample" ;
 
 function App() {
-  return <LeftTabsExample />
+  return <BasicExample />
 }
 
 export default App;
