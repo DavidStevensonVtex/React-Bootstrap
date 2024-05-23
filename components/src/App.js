@@ -1,8 +1,8 @@
 import './App.css';
-import DismissibleExample from "./Toasts/DismissibleExample" ;
+import StackingExample from "./Toasts/StackingExample" ;
 
 function App() {
-  return <DismissibleExample />
+  return <StackingExample />
 }
 
 export default App;
