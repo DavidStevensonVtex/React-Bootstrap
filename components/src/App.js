@@ -1,8 +1,8 @@
 import './App.css';
-import GrowExample from "./Spinners/GrowExample" ;
+import VariantsExample from "./Spinners/VariantsExample" ;
 
 function App() {
-  return <GrowExample />
+  return <VariantsExample />
 }
 
 export default App;
