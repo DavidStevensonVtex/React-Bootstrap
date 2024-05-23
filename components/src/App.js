@@ -1,8 +1,8 @@
 import './App.css';
-import SizesExample from "./Spinners/SizesExample" ;
+import ButtonExample from "./Spinners/ButtonExample" ;
 
 function App() {
-  return <SizesExample />
+  return <ButtonExample />
 }
 
 export default App;
