@@ -1,8 +1,8 @@
 import './App.css';
-import DarkExample from "./Tables/DarkExample" ;
+import StripedRowExample from "./Tables/StripedRowExample" ;
 
 function App() {
-  return <DarkExample />
+  return <StripedRowExample />
 }
 
 export default App;
