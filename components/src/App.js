@@ -1,8 +1,8 @@
 import './App.css';
-import NoAnimationExample from "./Tabs/NoAnimationExample" ;
+import FillExample from "./Tabs/FillExample" ;
 
 function App() {
-  return <NoAnimationExample />
+  return <FillExample />
 }
 
 export default App;
