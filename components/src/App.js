@@ -1,8 +1,8 @@
 import './App.css';
-import ControlledTabsExample from "./Tabs/ControlledTabsExample" ;
+import NoAnimationExample from "./Tabs/NoAnimationExample" ;
 
 function App() {
-  return <ControlledTabsExample />
+  return <NoAnimationExample />
 }
 
 export default App;
