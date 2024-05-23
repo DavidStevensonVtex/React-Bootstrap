@@ -1,8 +1,8 @@
 import './App.css';
-import BasicExample from "./Spinners/BasicExample" ;
+import BorderExample from "./Spinners/BorderExample" ;
 
 function App() {
-  return <BasicExample />
+  return <BorderExample />
 }
 
 export default App;
