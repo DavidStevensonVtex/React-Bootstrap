@@ -1,8 +1,8 @@
 import './App.css';
-import AutohideExample from "./Toasts/AutohideExample" ;
+import ContextualExample from "./Toasts/ContextualExample" ;
 
 function App() {
-  return <AutohideExample />
+  return <ContextualExample />
 }
 
 export default App;
