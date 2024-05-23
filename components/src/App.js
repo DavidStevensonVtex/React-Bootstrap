@@ -1,8 +1,8 @@
 import './App.css';
-import ResponsiveExample from "./Tables/ResponsiveExample" ;
+import ResponsiveBreakpointsExample from "./Tables/ResponsiveBreakpointsExample" ;
 
 function App() {
-  return <ResponsiveExample />
+  return <ResponsiveBreakpointsExample />
 }
 
 export default App;
