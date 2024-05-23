@@ -1,8 +1,8 @@
 import './App.css';
-import ResponsiveBreakpointsExample from "./Tables/ResponsiveBreakpointsExample" ;
+import UncontrolledExample from "./Tabs/UncontrolledExample" ;
 
 function App() {
-  return <ResponsiveBreakpointsExample />
+  return <UncontrolledExample />
 }
 
 export default App;
