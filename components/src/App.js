@@ -1,8 +1,8 @@
 import './App.css';
-import JustifiedExample from "./Tabs/JustifiedExample" ;
+import LeftTabsExample from "./Tabs/LeftTabsExample" ;
 
 function App() {
-  return <JustifiedExample />
+  return <LeftTabsExample />
 }
 
 export default App;
