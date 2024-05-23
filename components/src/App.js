@@ -1,8 +1,8 @@
 import './App.css';
-import AccessibilityExample from "./Spinners/AccessibilityExample" ;
+import BasicExample from "./Tables/BasicExample" ;
 
 function App() {
-  return <AccessibilityExample />
+  return <BasicExample />
 }
 
 export default App;
