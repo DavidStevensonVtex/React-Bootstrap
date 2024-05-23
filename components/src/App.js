@@ -1,8 +1,8 @@
 import './App.css';
-import PlacementExample from "./Toasts/PlacementExample" ;
+import PlacementMultiExample from "./Toasts/PlacementMultiExample" ;
 
 function App() {
-  return <PlacementExample />
+  return <PlacementMultiExample />
 }
 
 export default App;
