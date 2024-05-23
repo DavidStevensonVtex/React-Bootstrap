@@ -1,8 +1,8 @@
 import './App.css';
-import ButtonExample from "./Spinners/ButtonExample" ;
+import AccessibilityExample from "./Spinners/AccessibilityExample" ;
 
 function App() {
-  return <ButtonExample />
+  return <AccessibilityExample />
 }
 
 export default App;
