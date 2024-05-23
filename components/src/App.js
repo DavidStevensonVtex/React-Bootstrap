@@ -1,8 +1,8 @@
 import './App.css';
-import BasicExample from "./Tables/BasicExample" ;
+import SmallExample from "./Tables/SmallExample" ;
 
 function App() {
-  return <BasicExample />
+  return <SmallExample />
 }
 
 export default App;
