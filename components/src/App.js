@@ -1,8 +1,8 @@
 import './App.css';
-import HorizontalExample from "./Transitions/HorizontalExample" ;
+import FadeExample from "./Transitions/FadeExample" ;
 
 function App() {
-  return <HorizontalExample />
+  return <FadeExample />
 }
 
 export default App;
